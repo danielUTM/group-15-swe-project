@@ -1,5 +1,5 @@
 using System;
-
+// This puzzle is currently NOT implemented into the Unity project, but rather serves as a proof of concept on how the puzzle will work.
 public class MathsPuzzle {
 	public int firstNumber, secondNumber, userAnswer;
 	public char mathOperator;
